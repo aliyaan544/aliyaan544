@@ -9,6 +9,10 @@ I am a CyberSecurity Student.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJkZmQ2NnVqNGFzb3BzaGxkOHpwbnl1NHd5cXlyYnBnOGRpYnJ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" />
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aliyaan544&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aliyaan544&theme=dark&hide_border=false)<br/>
